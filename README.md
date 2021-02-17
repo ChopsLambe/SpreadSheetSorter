@@ -1,2 +1,2 @@
 # SpreadSheetSorter
-CS4221 project-University of Limerick
+CS4141 project-University of Limerick
